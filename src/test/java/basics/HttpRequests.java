@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
  * then()
  * validate status code,extract response,extract headers cookies and response body
  */
-
+//json-server students.json
 public class HttpRequests {
 	int id;
 
