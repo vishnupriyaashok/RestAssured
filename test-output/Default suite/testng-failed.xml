@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="waysToCreatePostRequest.UsingExternalJsonFile">
+      <class name="basics.Cookies">
         <methods>
-          <include name="exFile"/>
+          <include name="testCookies"/>
         </methods>
-      </class> <!-- waysToCreatePostRequest.UsingExternalJsonFile -->
+      </class> <!-- basics.Cookies -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

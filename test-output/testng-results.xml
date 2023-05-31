@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-30T14:43:42 CDT" name="Default suite" finished-at="2023-05-30T14:43:44 CDT" duration-ms="2331">
+  <suite started-at="2023-05-31T15:28:52 CDT" name="Default suite" finished-at="2023-05-31T15:28:54 CDT" duration-ms="2189">
     <groups>
     </groups>
-    <test started-at="2023-05-30T14:43:42 CDT" name="Default test" finished-at="2023-05-30T14:43:44 CDT" duration-ms="2331">
-      <class name="waysToCreatePostRequest.UsingExternalJsonFile">
-        <test-method signature="exFile()[pri:0, instance:waysToCreatePostRequest.UsingExternalJsonFile@6356695f]" started-at="2023-05-30T14:43:42 CDT" name="exFile" finished-at="2023-05-30T14:43:44 CDT" duration-ms="2284" status="PASS">
+    <test started-at="2023-05-31T15:28:52 CDT" name="Default test" finished-at="2023-05-31T15:28:54 CDT" duration-ms="2189">
+      <class name="basics.LogMethod">
+        <test-method signature="TestLogMethod()[pri:0, instance:basics.LogMethod@5ffead27]" started-at="2023-05-31T15:28:52 CDT" name="TestLogMethod" finished-at="2023-05-31T15:28:54 CDT" duration-ms="2109" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- exFile -->
-      </class> <!-- waysToCreatePostRequest.UsingExternalJsonFile -->
+        </test-method> <!-- TestLogMethod -->
+      </class> <!-- basics.LogMethod -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
